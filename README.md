@@ -15,7 +15,7 @@ Learn C++ School
 ├── lcs-core
 │   └── Open-source application core
 │
-├── lcs-console
+├── lcs-console-application
 │   └── Open-source console application
 │
 └── lcs-content
