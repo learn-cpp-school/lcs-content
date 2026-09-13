@@ -1,4 +1,4 @@
-# LCS - Released Content
+# LCS - Content
 
 Released educational content for **Learn C++ School** (LCS).
 
@@ -12,13 +12,13 @@ The application itself is open source, while the educational content is propriet
 
 ```text
 Learn C++ School
-├── core
+├── lcs-core
 │   └── Open-source application core
 │
-├── console
+├── lcs-console
 │   └── Open-source console application
 │
-└── content-release
+└── lcs-content
     └── Released content
 ```
 
