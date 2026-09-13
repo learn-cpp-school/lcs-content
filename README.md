@@ -1,4 +1,4 @@
-# LCS - Content
+# LCS Content
 
 Released educational content for **Learn C++ School** (LCS).
 
